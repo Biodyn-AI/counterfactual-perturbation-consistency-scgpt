@@ -1,0 +1,2 @@
+dataset_pair	intervention	n_overlap_pairs	spearman_abs_delta	spearman_signed_delta	sign_agreement_delta
+dixit_13d_vs_7d	ablation	40.0	0.3866791744840526	0.07467166979362101	0.25
